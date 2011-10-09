@@ -11,6 +11,9 @@ Tests.VisualState.xml
 *.orig
 *.user
 *.vspscc
+*.pdb
+*.pidb
+*.mdb
 LastBuild.log
 .svn
 _ReSharper*
